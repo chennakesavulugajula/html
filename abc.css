@@ -1,0 +1,14 @@
+.div1{
+    border: 2px solid red;
+    background: black;
+    color:white;
+    box-sizing: border-box;
+    padding:20px
+    width:24vw;
+}
+.div2{
+    border: 2px solid green;
+    background: blue;
+    color:white;
+    padding:10px;
+}

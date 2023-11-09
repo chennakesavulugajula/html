@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+text-align:center;
+border: 5px solid green;
+margin:150px;
+padding:10px;
+background-color:pink;
+}
+</style>
+<head>
+</head>
+<body>
+<h1>Regestration Form</h1>
+<label>First Name:</label>
+<input type="text" name="First Name" value="" placeholder="please enter your first name"></br></br>
+<label>Last Name:</label>
+<input type="text" name="Last Name" value="" placeholder="plese enter your last name"></br></br>
+<label>Username:</label>
+<input type="text" name="username" value="" placeholder="please enter your username"></br></br>
+<label>Password:</label>
+<input type="text" name="password" value="" placeholder="please enter your password"></br></br>
+<label>Conform Password:</label>
+<input type="text" name=" Conform password" value="" placeholder="please enter your password"></br></br>
+<label>Mobile Number:</label>
+<input type="text" name="Mobile Number" value=""placeholder="please enter your mobile number"></br></br>
+<label>address</label>
+<input type="text" name="address" value="" placeholder="enter your address"><br/><br/>
+</body>
+</html>
+
+
+
+
+
+
+
+
